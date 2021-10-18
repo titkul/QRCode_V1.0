@@ -1,0 +1,5 @@
+pip3 install pyzbar
+
+sudo apt-get install zbar-tools
+
+pip3 install imutils
